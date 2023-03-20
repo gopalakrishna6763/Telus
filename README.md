@@ -1,0 +1,2 @@
+# Telus
+Telus -Pull side 
